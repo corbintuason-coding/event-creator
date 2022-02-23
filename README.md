@@ -1,6 +1,6 @@
 # 🗓 Event Creator - Laravel Vue
 
-The event creator is a project made by John Corbin Tuason. This project will serve as his submission for the Appetiser Pre-Hire Coding Challenge.
+The event creator is a project made by John Corbin Tuason using Laravel for the Backend, and VueJS for the Frontend
 
 ## 🌍 Deployed Website
 
